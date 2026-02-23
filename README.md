@@ -1,2 +1,2 @@
 # Online-Business-Automation
-A fully automated Instagram-based online business system .
+Our system implements keyword-driven AI content generation for a life coaching brand, using structured prompt engineering and automated publishing workflows.
